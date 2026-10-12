@@ -4,11 +4,11 @@ Linux disk and memory forensics lab with Volatility and Sleuthkit, demonstrating
 
 ## Features
 
-- **Disk Forensics**: File recovery, filesystem analysis, artifact extraction
-- **Memory Analysis**: Process analysis, network connections, malware detection
-- **Timeline Reconstruction**: Mactime-based activity sequencing
-- **Chain of Custody**: Evidence integrity and tamper-proof logging
-- **Legal Reporting**: Cyber crime act-compliant documentation
+- Disk Forensics: File recovery, filesystem analysis, artifact extraction
+- Memory Analysis: Process analysis, network connections, malware detection
+- Timeline Reconstruction: Mactime-based activity sequencing
+- Chain of Custody: Evidence integrity and tamper-proof logging
+- Legal Reporting: Cyber crime act-compliant documentation
 
 ## Quick Start
 
@@ -21,10 +21,10 @@ python forensic_analysis.py disk_image.raw
 
 ## Analysis Modules
 
-- **Disk Analysis**: Deleted file recovery, filesystem timeline
-- **Memory Forensics**: Process enumeration, network I/O, malware detection
-- **Log Analysis**: Bash history, syslog, auth logs
-- **Cross-Correlation**: Disk ↔ Memory evidence linking
+- Disk Analysis: Deleted file recovery, filesystem timeline
+- Memory Forensics: Process enumeration, network I/O, malware detection
+- Log Analysis: Bash history, syslog, auth logs
+- Cross-Correlation: Disk <-> Memory evidence linking
 
 ## Technologies
 
@@ -39,7 +39,7 @@ Volatility 3.0+ | Sleuthkit 4.0+ | autopsy | strings, hexdump | Python 3.9+
 
 ## Documentation
 
-Full forensic procedures and case study: [Case Study](https://korir555.github.io/cybersecurity-portfolio/projects/31-digital-forensics-lab/)
+Full forensic procedures and case study: Case Study
 
 ## License
 
